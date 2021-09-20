@@ -20,6 +20,7 @@ namespace SinglyLinkedList
 
             myList.deleteFirst();
             myList.displayList();
+
         }
     }
     public class SinglyLinkedList
